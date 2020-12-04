@@ -7,9 +7,9 @@ event-sense is a AR application that will help guide people through a building o
 ## features
 
 * we strive to make a interactive map for users to walk through
-* a built in AR based GPS to guide you to wherever you would like to be
+* a built-in AR based GPS to guide you to wherever you would like to go
 * a map with all the activities and events
-* just a simple scan of a QR code will open our application
+* just a simple scan of a QR code will open our web application
 * dynamically add points of interest to events
 
 ## what modules do we use
